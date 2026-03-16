@@ -33,12 +33,12 @@ const config = defineConfig({
 			name: 'Spectre',
 			openGraph: {
 				home: {
-					title: 'Spectre',
-					description: 'A minimalistic theme for Astro.',
+					title: 'Cristhian Fernando Quintero H.',
+					description: 'A Data Analyst entusiast | System Engineer',
 				},
 				blog: {
 					title: 'Blog',
-					description: 'News and guides for Spectre.',
+					description: 'Get the things I am working on!',
 				},
 				projects: {
 					title: 'Projects',
